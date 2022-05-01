@@ -1,12 +1,11 @@
-# ZSurvive
+# Apocalypse
 
-ZSurvive is a RPG-like Discord bot game. Farm resources, upgrade tools, defeat epic bosses, earn achievements, and be
+Forked from ZSurvive, Apocalypse is an RPG-like Discord bot game. Farm resources, upgrade tools, defeat epic bosses, earn achievements, and be
 the strongest survivor ever!
 
-DISCLAIMER: ZSurvive is no longer maintained, the project reached 100k+ users created in 25K+ servers. Check out this project on [my portfolio](https://www.facundolevaggi.com/projects/zsurvive).
+I have updated the ZSurvive bot to work with the latest version of discord.js, and added some of my own features.
 
 [Video Preview](https://www.youtube.com/watch?v=lurRwfjhUpM) by a youtuber.
-
 
 ## Features
 * Unique reaction menu and gameplay.
